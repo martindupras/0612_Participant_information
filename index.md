@@ -9,7 +9,7 @@ Conducted by Martin Dupras, Open University PGR researcher
 [simon.holland@open.ac.uk](mailto:simon.holland@open.ac.uk) (supervisor)
 
 **Dates**  
-The study will run from the 9th of December 2024 until the 31st of January 2025\.
+The study will run from the 9th of December 2024 until the 28th of February 2025\.
 
 **Invitation to participate**  
 You are being invited to take part in a research study. Before you decide whether or not to take part, it is important for you to understand why the research is being done and what it will involve. Please take time to read the following information carefully.

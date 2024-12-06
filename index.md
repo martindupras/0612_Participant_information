@@ -1,5 +1,3 @@
-Revised 20241206
-
 # Dupras Pilot Study \- Participant Information 
 
 **Study Title:**   

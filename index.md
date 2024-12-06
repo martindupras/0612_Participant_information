@@ -17,7 +17,7 @@ You are being invited to take part in a research study. Before you decide whethe
 Your participation in the study will consist of the following:
 
 - Answering a short questionnaire  
-- Downloading some PureData patches (henceforth called “the probes”) and running them on your computer (you will need to have PureData 0.54 or later installed, and audio interface, and an electric guitar)  
+- Downloading some PureData patches (henceforth called “the probes”) and running them on your computer (you will need to have PureData 0.54 or later installed, and audio interface, and a MIDI controller)  
 - realising a guided task using the probes, which should take between 30 and 90 minutes   
 - Recording an audio “journal” or commentary at the start, during, and at the end of the task, which you will send to me at the end  
 - Attending a short (30 minute) (online) video-call  interview at the end, which will be recorded  
